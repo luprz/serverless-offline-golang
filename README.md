@@ -19,3 +19,5 @@ use [make](https://formulae.brew.sh/formula/make) to run commands in `Makefile`
 ```
 make start // clean, build and start the project
 ```
+
+Video: https://www.youtube.com/watch?v=y6uYE62cp9g
